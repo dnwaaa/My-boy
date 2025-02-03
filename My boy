@@ -37,8 +37,8 @@ document.getElementById('si').style.display
 <p onclick="dijoSi()" class="p2">Si</p>
 <div id="si">
 <h2>Sabia que dirías que si mi cielo lindo</h2>
-</div>
-</div>
-</div>
-</body>
-</html>
+</div>git add
+</div>git add
+</div>git add
+</body>git add
+</html> git commit-m "app finished"
